@@ -1,5 +1,7 @@
 # adam-sanderson
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/adsanderson/assemble-blog.svg)](https://greenkeeper.io/)
+
 > A test blog for Adam Sanderson made in assemble.
 
 ## [Assemble](http://assemble.io/)
